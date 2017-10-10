@@ -1,1 +1,2 @@
-%{"optimus": {:git, "https://github.com/savonarola/optimus.git", "5a3bb562dd4b2520335aad95e0a34a35b7be0ac7", []}}
+%{"optimus": {:git, "https://github.com/savonarola/optimus.git", "44dc2f69d5b58ce8b40f8cb20aa900eca2ee236b", []},
+  "yamerl": {:hex, :yamerl, "0.4.0", "ae215b1242810a9bc07716b88062f1bfe06f6bc7cf68372091f630baa536df79", [], [], "hexpm"}}
